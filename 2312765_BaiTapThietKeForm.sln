@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2312765_BaiTapThietKeForm", "2312765_BaiTapThietKeForm\2312765_BaiTapThietKeForm.csproj", "{D4ADD843-AE7D-4B8F-95E7-950F15EF5246}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2312765_BaiTapWindowForm", "2312765_BaiTapWindowForm\2312765_BaiTapWindowForm.csproj", "{3AF28695-60FF-4BB2-97C3-27E1BF38F5A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2312765_BaiTapWindowForm2", "2312765_BaiTapWindowForm2\2312765_BaiTapWindowForm2.csproj", "{041CCE4C-5DDF-4E76-AC28-177CD643C6F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2312765_BaiTapWindowForm3", "2312765_BaiTapWindowForm3\2312765_BaiTapWindowForm3.csproj", "{70801116-CC62-4410-BD1F-82B1139F0F0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2312765_BaiTapWindowForm4", "2312765_BaiTapThietKeForm4\2312765_BaiTapWindowForm4.csproj", "{ECEC1BB4-5F09-4D4F-8DEA-04D8C5111CD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4ADD843-AE7D-4B8F-95E7-950F15EF5246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4ADD843-AE7D-4B8F-95E7-950F15EF5246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4ADD843-AE7D-4B8F-95E7-950F15EF5246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4ADD843-AE7D-4B8F-95E7-950F15EF5246}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AF28695-60FF-4BB2-97C3-27E1BF38F5A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF28695-60FF-4BB2-97C3-27E1BF38F5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF28695-60FF-4BB2-97C3-27E1BF38F5A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF28695-60FF-4BB2-97C3-27E1BF38F5A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{041CCE4C-5DDF-4E76-AC28-177CD643C6F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041CCE4C-5DDF-4E76-AC28-177CD643C6F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041CCE4C-5DDF-4E76-AC28-177CD643C6F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041CCE4C-5DDF-4E76-AC28-177CD643C6F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70801116-CC62-4410-BD1F-82B1139F0F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70801116-CC62-4410-BD1F-82B1139F0F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70801116-CC62-4410-BD1F-82B1139F0F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70801116-CC62-4410-BD1F-82B1139F0F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECEC1BB4-5F09-4D4F-8DEA-04D8C5111CD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECEC1BB4-5F09-4D4F-8DEA-04D8C5111CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECEC1BB4-5F09-4D4F-8DEA-04D8C5111CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECEC1BB4-5F09-4D4F-8DEA-04D8C5111CD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {001CFB4D-5568-4373-A303-45A13F64C43B}
+	EndGlobalSection
+EndGlobal
